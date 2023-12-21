@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/adptr_akrilik.xml" value="0.14628623188405798" />
-        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/adptr_pesanan.xml" value="0.14628623188405798" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/drawable/bg.xml" value="0.2115" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/drawable/bg_lgin.xml" value="0.125" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/drawable/bgadp.xml" value="0.2105" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/drawable/bginput.xml" value="0.2105" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_act_akrilik.xml" value="0.15896739130434784" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_act_dash.xml" value="0.25" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_act_pesanan.xml" value="0.25" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_detail_akrilik.xml" value="0.33" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_detail_pesanan.xml" value="0.33" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_input_akrilik.xml" value="0.22" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_input_pesanan.xml" value="0.15896739130434784" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/adptr_akrilik.xml" value="0.33" />
+        <entry key="..\:/mobileApp/appAcr/app/src/main/res/layout/adptr_pesanan.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -32,7 +32,7 @@
                 android:background="@drawable/arrow" />
 
             <TextView
-                android:id="@+id/hdngAcr"
+                android:id="@+id/hdngPsn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
@@ -83,7 +83,6 @@
             android:background="@drawable/bginput"
             android:ems="10"
             android:hint="Alamat"
-            android:inputType="number"
             android:fontFamily="sans-serif-condensed-light"
             android:paddingLeft="18dp"
             app:layout_constraintEnd_toEndOf="parent"

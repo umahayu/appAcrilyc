@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="35dp"
-            android:text="DASHBOARD"
+            android:text="PESANAN"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:textStyle="bold"
@@ -129,7 +129,7 @@
         app:srcCompat="@drawable/search" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+        android:id="@+id/lisPsn"
         android:layout_width="match_parent"
         android:layout_height="455dp"
         android:layout_marginTop="25dp"
@@ -149,5 +149,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/tambah" />
 
+    <TextView
+        android:id="@+id/txtSearchPsn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="Data tidak ditemukan"
+        android:textSize="18sp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/constraintLayout" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

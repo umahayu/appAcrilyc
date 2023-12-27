@@ -99,7 +99,6 @@
             android:background="@drawable/bginput"
             android:ems="10"
             android:hint="Keteranagan"
-            android:inputType="number"
             android:fontFamily="sans-serif-condensed-light"
             android:paddingLeft="18dp"
             app:layout_constraintEnd_toEndOf="parent"
